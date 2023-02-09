@@ -1,0 +1,10 @@
+
+
+
+#header > h1 {
+    color: #a855f7;
+    line-height: 80px;
+    margin: 0;
+    text-align: center;
+    background:linear-gradient(to right, #fecaca 30%, #fde68a 30% 70%, #bae6fd 70%);
+}
